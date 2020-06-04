@@ -1,5 +1,5 @@
 <?php
-echo "Hello World\n";
-echo "first deploy via awscli\n";
+echo "Hello World<br/>";
+echo "first deploy via awscli<br/>";
 phpinfo();
 ?>
